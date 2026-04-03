@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+*{
+  
+  box-sizing: border-box;
+}
+
+#scroller::-webkit-scrollbar{
+  display: none;
+}
