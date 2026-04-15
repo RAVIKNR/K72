@@ -35,7 +35,7 @@ npm run dev
 
 ## 📸 Preview
 
-(Add your screenshots or live link here)
+[(Add your screenshots or live link here)](https://k72-clone-ppwj.onrender.com/)
 
 ---
 
